@@ -1,6 +1,4 @@
 # Sentiment-Analysis-Product-Reviews
-Análisis de sentimientos en reseñas de productos utilizando machine learning y NLP con Python.
-<br>
 
 Análisis de Sentimientos de Reseñas de Productos
 Este proyecto es un ejemplo práctico de Análisis de Sentimientos aplicado a reseñas de productos. Utiliza técnicas de procesamiento de lenguaje natural (NLP) y aprendizaje automático (Machine Learning) para clasificar automáticamente el tono de una reseña como positiva o negativa.
