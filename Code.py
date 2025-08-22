@@ -78,7 +78,6 @@ df['cleaned_review'] = df[review_column].apply(clean_text)
 print("\nPrimeras 5 reseñas originales y limpias:")
 print(df[[review_column, 'cleaned_review']].head())
 
-# --- El resto del código es idéntico a tu script original ---
 # (EDA, vectorización, entrenamiento, predicción y visualización)
 # ...
 
